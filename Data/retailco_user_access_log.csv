@@ -1,0 +1,9 @@
+user_id,user_name,role,can_create_invoice,can_approve_discount,can_modify_master_data
+u_andika,Andika,Sales Clerk,Y,N,N
+u_bella,Bella,Sales Clerk,Y,N,N
+u_citra,Citra,Senior Sales,Y,Y,N
+u_dwi,Dwi,Store Supervisor,N,Y,N
+u_eka,Eka,Store Manager,N,Y,Y
+u_fajar,Fajar,Back Office,N,N,Y
+u_gita,Gita,Online Channel,Y,Y,N
+u_hanif,Hanif,Admin,N,N,Y
