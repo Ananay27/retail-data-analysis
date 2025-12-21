@@ -36,9 +36,10 @@ This project simulates how data analysts support decision-making in retail compa
 📊 **Live Power BI Dashboard**
 
 👉 Interactive Power BI Dashboard (Public)
-🔗 https://app.powerbi.com/view?r=eyJrIjoiMWZlY2NhYjAtYmFiOS00Njc0LWJiMTEtNDFhYTU2NGY5NzdlIiwidCI6IjU0ZmQ0YzhhLWY4NzMtNDFjZi04Nzc4LWNkYWY1NGU5OGI5MyJ9
+🔗 [Link](https://app.powerbi.com/view?r=eyJrIjoiMWZlY2NhYjAtYmFiOS00Njc0LWJiMTEtNDFhYTU2NGY5NzdlIiwidCI6IjU0ZmQ0YzhhLWY4NzMtNDFjZi04Nzc4LWNkYWY1NGU5OGI5MyJ9
+) 
 
-🔍 Analysis Performed
+🔍 **Analysis Performed**
 
 🧾 SQL Analysis
 
